@@ -273,6 +273,11 @@
         "address": "provenance-seed.panthea.eu:42656",
         "provider": "Panthea EU"
       }
+      {
+        "id": "258f523c96efde50d5fe0a9faeea8a3e83be22ca",
+        "address": "seed.pio-mainnet-1.provenance.aviaone.com:10277",
+        "provider": "AviaDoc by AviaOne"
+      }      
     ]
   },
   "apis": {
@@ -297,6 +302,10 @@
         "address": "https://provenance-rpc.highstakes.ch:26657/",
         "provider": "High Stakes \uD83C\uDDE8\uD83C\uDDED"
       }
+      {
+        "address": "https://rpc.pio-mainnet-1.provenance.aviaone.com",
+        "provider": "AviaDoc by AviaOne"
+      }      
     ],
     "rest": [
       {
@@ -319,6 +328,10 @@
         "address": "https://provenance-api.highstakes.ch:1317/",
         "provider": "High Stakes \uD83C\uDDE8\uD83C\uDDED"
       }
+      {
+        "address": "https://api.pio-mainnet-1.provenance.aviaone.com",
+        "provider": "AviaDoc by AviaOne"
+      }      
     ],
     "grpc": [
       {
@@ -329,6 +342,10 @@
         "address": "grpc-provenance-ia.cosmosia.notional.ventures:443",
         "provider": "Notional"
       }
+      {
+        "address": "grpc.pio-mainnet-1.provenance.aviaone.com:9100",
+        "provider": "AviaDoc by AviaOne"
+      }      
     ]
   },
   "explorers": [
